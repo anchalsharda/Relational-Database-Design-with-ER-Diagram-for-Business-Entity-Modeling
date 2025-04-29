@@ -20,6 +20,13 @@ Documented entity attributes, relationship directionality, and relational keys t
 Delivered a fully normalized relational database model with clear relationships and schema logic.
 Demonstrated proficiency in data modeling, entity design, and technical documentation for database architecture.
 Created a foundational structure to support scalable and query-efficient business data operations.
+
+**💻 Tools Used:**
+
+*SQL: Utilized for querying, data extraction, and database management, ensuring efficient data retrieval and relationship mapping.
+*Lucidchart / Visio / PowerPoint: For creating the E-R diagram and illustrating entity relationships.
+*Excel: For data analysis and supporting the design and documentation process.
+
 #DatabaseDesign #ERDiagram #RelationalModeling #DataNormalization #CrowFootNotation #SQL #Lucidchart #BusinessIntelligence #EntityModeling #StarSchema #SnowflakeSchema #ETL #InformationArchitecture
 
 **Note:**
